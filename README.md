@@ -1,2 +1,2 @@
 # code-challenges
-Solutions to code exercicises from contests and marathons
+Solutions to code exercicises from contests, marathons and code interviews
